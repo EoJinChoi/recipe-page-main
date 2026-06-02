@@ -97,9 +97,10 @@ tr:not(:last-child) {
   border-bottom: 1px solid lightgray;
 }
 
-td {
+td, th {
     padding: 12px;
     padding-left: 20px;
+    font-weight: normal;
 }
 
 .value {
